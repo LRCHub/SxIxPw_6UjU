@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "トリコロール・ステップ (あおぎり高校 ver.)",
+  "base_track": "トリコロール・ステップ",
   "base_artist": "あおぎり高校",
-  "createdAt": "2026-03-18T13:50:25.349834Z",
+  "createdAt": "2026-03-26T00:15:54.903036Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -15,20 +15,20 @@
     {
       "id": "localdb_1",
       "source": "localdb",
-      "title": "トリコロール・ステップ (あおぎり高校 ver.)",
+      "title": "トリコロール・ステップ",
       "artist": "あおぎり高校",
       "has_synced": false,
-      "path": "select/localdb_01_トリコロール・ステップ_(あおぎり高校_ver.)_あおぎり高校.txt",
-      "repo_name": "8Fc8XmizF_g"
+      "path": "select/localdb_01_トリコロール・ステップ_あおぎり高校.txt",
+      "repo_name": "SxIxPw_6UjU"
     },
     {
       "id": "localdb_2",
       "source": "localdb",
-      "title": "トリコロール・ステップ (あおぎり高校 ver.)",
+      "title": "トリコロール・ステップ",
       "artist": "あおぎり高校",
       "has_synced": false,
-      "path": "select/localdb_02_トリコロール・ステップ_(あおぎり高校_ver.)_あおぎり高校.txt",
-      "repo_name": "SxIxPw_6UjU"
+      "path": "select/localdb_02_トリコロール・ステップ_あおぎり高校.txt",
+      "repo_name": "8Fc8XmizF_g"
     }
   ]
 }
